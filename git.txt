@@ -1,0 +1,4 @@
+Linux Komutları:
+cat - Oluşturulan dosyanın içeriğini gösterir.
+touch-Dosya oluşturmak için kullanılır.
+mkdir - Klasör oluşturmak için kullanılır.
