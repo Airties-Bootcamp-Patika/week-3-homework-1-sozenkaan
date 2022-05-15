@@ -1,0 +1,52 @@
+1-İyi bir commit mesajı nasıl olmalıdır?
+
+İyi bir commit mesajı;açıklanabilir olmalı,kodların çalıştığından emin olduktan sonra sürekli commit yapılmalı,
+Emir kipi ile başlanmalı,nokta ile bitmemeli.
+
+2-FIFO ile LIFO sıralama şeklini araştırınız.
+
+FIFO,bir stok değerlendirme yöntemidir.Üretime verilecek olan ve satılacak malların stoklara ilk önce giren mallardan olması
+gerektiği varsayımına dayanır.FIFO yapısına toplumdan bir örnek verecek olursak kantin sırasında oluşan kuyruk diyebiliriz.
+
+LİFO,üretime verilecek olan veya satılacak malların stoklara son olarak giren mallardan olması gerektiği varsayımına dayanır.
+LİFO yapısına örnek verecek olursak,örneğin elimizde bir koli olsun ve biz bu kolinin içerisine kitapları koyduğumuzu 
+varsayalım.Son koyduğumuz kitabı ilk önce,ilk koyduğumuz kitabı ise en son almış oluruz.
+
+3-git merge rebase farkı, rebase yapısı nedir?
+
+git merge,bir kaynak dalın içeriğini bir hedef dalla birleştirirken,her taahhüt geçmişinin soyunu korurken
+git rebase ana daldaki tüm yeni taahhütleri,kaynak daldaki her bir taahhütler için yeni taahhütler 
+oluştururak yeniden yazarak birleştirir.
+
+4-Sourcetree'yi inceleyiniz.
+
+SourceTree,Atlassian'ın çıkarmış olduğu,Git projelerinin yönetimini kolaylaştıran 
+oldukça kullanışlı bir masaüstü uygulamasıdır.
+
+5-Interpreter-Complier nedir? Aralarındaki farklar nelerdir?
+
+Bir kaynak kodu hedef koda çevirdikten sonra çalıştıran ve dolayısıyla koddaki hataları yakalama işlemini ve 
+kodun iyileştirilmesini daha kod çalıştırmadan yapan çeviricilere derleyici,kodu satır satır veya bloklar halinde çalıştırıp
+sırası gelmeyen satırları hiç çalıştırmayan bu satırlardaki hataları hiçbir zaman göremeyen ve kodun bütününe ait
+iyileştirmeleri yapamayan çeviricilere de yorumlayıcı adı verilmektedir.
+
+Aralarındaki farklar;
+
+Compiler bir programı bütün olarak alır ve çevirirken;Interpreter programı satır satır çevirir.
+
+Compiler,ara kod veya hedef kodu oluşturur fakat Interpreter herhangi bir ara kod oluşturmaz.
+
+Compiler'da,bir hata oluştuğunda,çeviri işlemi durur ve hata giderildikten sonra bütün program yeniden çeviri işlemine 
+tabii tutulur.Interpreterda ise,eğer bir hata meydana geldiğinde,o anki çeviriyi engeller ve hata giderildiğinde çeviriyi
+kaldığı yerden devam ettirir.
+ 
+
+6-Servlet
+
+Java EE içerisinde yer alan Servlet sunucu(server)-istemci(client) tabanlı uygulamaların haberleşmesini 
+yönetmek için kullanan sınıf,arayüz ve paket topluluğudur.Servlet sunucuya bir istek geldiğinde sırayla çalışacak metotları 
+belirtir.
+
+
+
+

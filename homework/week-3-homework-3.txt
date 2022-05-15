@@ -1,0 +1,42 @@
+1-Ansible nedir?
+
+Ansible,bilgisayarları yapılandırmak ve yönetmek için kullanılan bir özgür yazılım platformudur.Kurum içi veri merkezleri,
+bulut yapısı,fiziksel ya da sanal ortamlardaki birçok sunucuyu agent kurulumu gerektirmeden yönetilmesini sağlayan,uygulama
+dağıtımı,yazılım provizyonunu,yapılandırma yönetimi gibi orchestration ihtiyacı duyabilen işlemlerde kullanılan Open Source 
+bir otomasyon sistemidir.
+
+2-XML nedir? Açılımı nedir?
+
+XML, bir metin işaretleme dilidir.Programlama dillerine benzer ancak yalnızca belirli işlevlere sahiptir.Hem insanlar 
+hem de işletim sistemleri tarafından okunabilen XML dili ile hazırlanmış dokümanların temel amacı veri saklamak ve veri
+transferi yapmaktır.Açılımı XML(Extensible Markup Language) dir.
+
+3-JSON nedir?(JavaScript Object Notation)
+
+Json,bütün programlama dilleri arasında,yapılandırılmış veri değişimini kolaylaştıran bir metin biçimidir.
+
+4-YAML nedir?
+
+Yaml, dil bağımsız bir veri değişim formatıdır.Herhangi bir programlama dili ile oluşturulan nesneler,
+Yaml formatında kolaylıkla temsil edilebilmektedir.
+
+5-http, https, status kodların araştırılması (1 ile başlayanlar, 2 ile başlayanlar...)
+
+HTTP durum kodları hem kullanıcılar hem de web siteleri için oldukça önemli bir unsurdur.Kullanıcılar giriş yapmak istedikleri
+web sayfaları ile alakalı bir sorun yaşadığında bu sorunun nereden ve neden kaynaklandığını bilmek isterler.
+
+1 ile başlayanlar(1xx): Tarayıcı tarafından gönderilen isteğin sunucuya ulaştığını ve işlemin başladığını bildiren 
+bilgilendirme kodlarını ifade eden durum kodlarıdır.
+
+2 ile başlayanlar(2xx): Tarayıcı tarafından gönderilen isteğin sunucuya ulaştığını,anlaşıldığını ve başarılı olduğunu
+ifade eden durum kodlarıdır.
+
+3 ile başlayanlar(3xx): Erişilmek istenen kaynağın başka bir kaynağa taşındığını ve bir yönlendirmenin söz konusu olduğunu
+ifade eden durum kodlarıdır.
+
+4 ile başlayanlar(4xx): İsteğin yerine getirilemediğini ilgili web sayfasına ya da web sitesine ulaşılmadığını ifade eden 
+durum kodlarıdır.
+
+5 ile başlayanlar(5xx): Tarayıcı tarafından gönderilen isteğin başarıyla sunucuya ulaştığını fakat sunucu tarafındaki 
+sorunlar nedeniyle isteğin yerine getirilmediğini ifade eden durum kodlarıdır.
+ 

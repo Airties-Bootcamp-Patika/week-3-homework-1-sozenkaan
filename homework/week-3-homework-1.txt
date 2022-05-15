@@ -1,0 +1,48 @@
+1-Bilgisayarda kaç port vardır?
+
+Genelde 65.536 adedi TCP tipinde,65536 adedi UDP tipinde olmak üzere toplamda 131.072 adet port bulunmaktadır.
+
+2-1024 altı olan portlar neden dış dünyaya açılmıyor? 1024 altı portlarin genel adı nedir? (well-known ports)
+
+1024'e kadar olan portlar özeldir.Bu sunucular özel bilgiler içerdiği için dışarıdan erişim yasaktır. 
+
+
+3-80 portu dışarıya 8585 açılmış neden?
+
+Bazı bilgisayar ve http sunucuları port 80 yerine,port 8080'i kullanmaya tercih edebilirler.Port 8080 'i kullanmalarının
+nedeni,bu port üzerinden kolayca önbellekleme yapabilmesi veya bir proxy sunucusunun kullanılmasıdır.(Ben 8080 olarak buldum.)
+
+4-Nginx nedir?
+
+Nginx Rus Yazılım Mühendisi Igor Sysuev tarafından mail.ru için yapılmış mail sunucusudur.
+Nginx,özellikle yüksek trafikli ve yoğun istek girişi  olan web siteleri için biçilmiş kaftandır.
+Birçok isteğin aynı anda işlenebilmesini mümkün kılmaktadır.   
+
+5-Devops nedir? Devops yapısını araştırınız. (sonsuzluk işaretli diagramdaki başlıkların araştırılması)
+
+DevOps,Bilgi Teknolojileri departmanı içerisinde bulunan iki temel 
+birimi(Development ve Operations)bir arada etkili bir iletişim içerisinde beraber çalışmalarıdır.
+
+Development:Bu yazılımın planlama ve kodlamasını içeren aşamadır.Projenin vizyonuna planlama aşamasında karar verilir
+ve geliştiriciler uygulama için kod geliştirmeye başlar.Devops araçları bulunmaz.
+
+İntegration:Bu aşama devops yaşam döngüsünün kalbidir.Sürekli entegrasyon süreci geliştirme sonrasında 
+otomatik olarak başlar.Bir sonraki aşamada yapılacak testlerin planlanması,ilk proje belgelerinde ihtiyaç duyulan sonucu
+üretme kodunun anlaşılması gibi birkaç adım içerir.
+
+Testing:Test işlemi devops'da bir uygulamanın gerçek kullanımını kontrol eder.
+Beta test kullanıcıları sonuç verirken,uygulamanın amaçlanan kullanımını canlı bir ortamda kullanabilmesini sağlar.
+
+Monitoring:Bu uygulamamızın performansını sürekli olarak izlediğimiz Devops yaşam döngüsünün çok önemli bir aşamasıdır.
+Burada yazılımın kullanımı hakkında hayati bilgiler kaydedilir.Bu bilgiler,uygulamanın işlevselliğini tanımak için işlenir.
+
+FeedBack: Mevcut ürünün geliştirilmesinde ve yeni sürümlerin hızla yayınlanmasına yardımcı olur.Ürünün nihai sonucu analiz
+edilerek uygulama performansı sürekli olarak arttırılır.
+
+Deployment:Bu kodun üretim sunucularına dağıtıldığı aşamadır.Dağılım işlemi,kodda yapılan herhangi bir değişikliğin 
+yüksek trafikli web sitesinin çalışmasını etkilemeyeceği şekilde gerçekleştirilir.
+
+Operations:Tüm devops işlemleri,yayınlanma sürecinin tam otomasyonu ile sürekliliğe dayanır ve kuruluşların sürekli olarak 
+piyasaya sürülme süresini hızlandırmasına olanak tanır. 
+
+

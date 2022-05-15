@@ -1,0 +1,8 @@
+1- git unstaging staging kavramları nedir?
+
+Staging area, genellikle git klasörünüzde bulunan ve bir sonraki kayıt işlemine hangi değişikliklerin dahil olacağını 
+tutan sade bir dosyadır.Örneğin internet olmadığı bir alanda proje geliştiriyoruz tüm değişiklikleri gruplayarak Staging 
+Area'ya alabiliriz ve oradan da repository mize commitleyebiliriz.
+
+Unstaging ise,dosya içerisinde herhangi bir editleme yaptığımızda unstaged durumuna geçer.Değişiklikler sonrasında unstaged
+durumundan staged durumuna alınması gerekir ki sonraki aşama olan tracked durumuna alınabilsin.

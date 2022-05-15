@@ -1,0 +1,30 @@
+1-URL, URI
+
+URI, internette bir kaynak üzerine işaret edilmiş resim veya belge gibi klasik formata uygun bir karakter dizisidir.
+URL,bir kaynağın örnek konumlayıcı veya tek halde kaynak bulucu olarak tanımlanabilir.
+
+2-DNS yapısı, Domain nedir? Host yapısı
+
+Dns yapısı en üstten başlayarak aşağıya doğru inen,hiyerarşik yapıya sahip bir veritabanıdır.Dns sisteminde,root nokta(.)
+ile gösterilir.Veritabanı üzerindeki her bir alt nokta "domain";bu domainden kollara ayrılan her bir parça ise "subdomain"
+olarak adlandırılır.
+
+3-GNU nedir?(GNU's Not Unix)
+
+GNU;çekirdeği,sistem araçlarını,açıcılarını,kütüphanelerini ve son kullanıcı yazılımlarını içeren,GNU Tasarısı kapsamında
+geliştirilen bir işletim sistemidir.
+
+4-Git
+
+Git,yazılım geliştirme süreçlerinde kullanılan,hız odaklı,dağıtık çalışan bir sürüm kontrol ve kaynak kod yönetim sistemidir.
+Kısaca,bir dosyamız var ve bu dosyanın oluşturulma tarihinden başlayarak istediğiniz tüm durumlarını takip edebildiğimiz
+bir yapı tasarlıyoruz.Bu yapının sorun çıkarıp çıkarmaması tamamen bizim elimizde.Ne kadar iyi tasarlarsak ne kadar çok 
+commit atıp geri dönebileceğimiz noktalar oluşturursak,yönetimi kolay bir yapı tasarlamış oluruz.
+
+5-CLİ, GUİ ve farkı
+
+CLI,bir kullanıcının komutlarla sistemle iletişim kurmasını sağlar.Cihaz olarak tuş takımını kullanır.
+Bir işlemi gerçekleştirmek zor ve uzmanlık gerektiriyor.GUI ise,kullanıcının görüntüler,simgeler vb. içeren grafikleri
+kullanarak sistemle etkileşime girmesine izin verir.Cihaz olarak fare ve klavye kullanır.Görevleri gerçekleştirmek kolaydır
+ve uzmanlık gerektirmez.
+

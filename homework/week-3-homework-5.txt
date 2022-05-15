@@ -1,0 +1,29 @@
+1-Kernel ile Shell farkı
+
+Kernel,bir linux işletim sisteminin ana bileşenidir ve bir bilgisayarın donanımı ile ilgili süreçleri yönetir.Shell ise,
+bir kullanıcı ile bir işletim sistemi çekirdeği arasında bir arayüz sağlayan bir programdır. 
+
+2-Docker portainer
+
+Portainer,Docker veya Docker Swarm Cluster'ımızı yönetmemizi sağlayan bir management UI'dır.Docker'ı terminalden kullanmak 
+zor geliyorsa,docker'ı bir arayüz ile yönetmek/kullanmak istiyorsanız portainer tam da bunun içindir.
+
+3-Cross origin
+
+Cross-Origin,web tarayıcısı tarafından yönetilen ve ek HTTP başlıkları kullanarak,bir kökende çalışan web uygulamasının,
+farklı bir kökende yer alan web uygulamasına erişim izni kontrolünü sağlayan mekanizmadır.
+
+4-Application server: Tomcat, Wildfly, Nginx
+
+Application server, genellikle web içeriği sağlayabilir.Ancak öncelikli işi,işlem sonuçları,karar desteği ya da gerçek 
+zamanlı analitik gibi dinamik içerikleri oluşturmak ve sunmak üzere son kullanıcı istemcileri ile iş mantığını temsil eden 
+kod olan sunucu tarafı uygulama kodu arasındaki etkileşimi sağlamaktır. 
+
+5-CVCS - DVCS
+
+CVCS,geliştirici veya bir tasarım ekibinde,bir proje üzerinde ortak çalışma süreci pek çok sorunu da beraberinde getirmektedir
+Bu tür bir çalışma sürecindeki dosyaların kontrolleri için daha geniş ölçekli bir çözüm olarak CVCS geliştirilmiştir.
+
+DVCS,istemciler dosyaların yalnızca en son bellek kopyalarını almakla kalmaz,yazılım havuzunu bütünüyle kopyalarlar.Git,
+Mercurial,Bazaar gibi örnekleri dvcs için verebiliriz.Dağıtık sistemlerde üzerinde ortak çalışma yürütülen sunuculardan
+biri çökerse istemcilerden birinin yazılım havuzu sunucuya yüklenerek sistem kurtarılabilmektedir.

@@ -1,0 +1,28 @@
+1-Statik kod analizi: Sonarqube
+
+Derlenebilir durumdaki bir uygulama projesinin kaynak kodları incelenerek güvenlik zaafiyetlerinin tespit edilmesidir.
+Projedeki kodların belirli kurallara uyup uymadığını denetleyen bir araçtır.
+
+2-Kubernetes yapısı
+
+Google tarafından GO dilinde geliştirilmiş Cloud Native Computing Foundation tarafından desteklenen mevcut konteyner
+haline getirilmiş uygulamalarınızı otomatik deploy etmek,sayılarını arttırıp azaltmak gibi 
+işlemler ile birlikte yönetmemizi sağlayan konteyner kümeleme aracıdır.
+
+3-Orchestration yapısı
+Sistem yönetiminde orkertasyon,bilgisayar sistemleri ve yazılımlarının otomasyon yapılandırması,
+koordinasyonu ve yönetimidir.
+
+4-npm nedir ve niçin kullanılır?
+
+npm,javascript betik dili için geliştirilmiş olan ve Node.js'in standart olarak kabul ettiği bir paket yönetim sistemidir.
+Temel olarak 3.parti yazılımları yüklemeyi sağlayan bir araçtır.
+ 
+5-Agile-Scrum nedir?
+
+Agile modeli proje yönetimi,yazılım geliştirme sürecinde karşılaşan problemleri çözmek üzere,tekrarlanan yazılım geliştirme
+modeli taban alınarak geliştirilmiş,sık aralıklarla parça parça yazılım teslimatını ve değişikliğini teşvik eden bir yazılan
+bir yazılım geliştirme modelidir.
+
+Scrum,insanların mümkün olan en yüksek değere sahip ürünleri üretken ve yaratıcı bir şekilde geliştirirken karmaşık ve 
+adaptasyona açık sorunları ele alabildikleri bir çerçeve olan agile proje yönetme metadolojilerinden biridir. 
