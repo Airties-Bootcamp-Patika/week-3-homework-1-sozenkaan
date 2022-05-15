@@ -2,3 +2,7 @@ Linux Komutları:
 cat - Oluşturulan dosyanın içeriğini gösterir.
 touch-Dosya oluşturmak için kullanılır.
 mkdir - Klasör oluşturmak için kullanılır.
+info - Komutlar hakkında bilgi almak için kullanılır.
+cp- Dosyaları kopyalamak için kullanılır.
+mv - Dosyaları taşımak veya yeniden adlandırmak için kullanılır.
+locate- Dosyaların hangi dizinde olduğunun taramasını yapar.
