@@ -1,0 +1,7 @@
+Bildiğim Linux Komutları:
+cd - Gitmek istediğimiz dizine götürür.
+cd .. - Dizinden çıkmak için kullanılır.
+ls - Dizinde bulunan dosyaları gösterir.
+rm - Dizini silmek için kullanılır.
+echo-Bir veriyi yazdırmak için kullanılır.
+
